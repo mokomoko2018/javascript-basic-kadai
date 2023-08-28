@@ -1,6 +1,7 @@
  //変数の宣言
-let Bmi=(68/(1.7*1.7));
+let weight=68;
+let height=1.7;
+let Bmi=(weight/(height*height));
 
  // コンソールへの出力
  console.log(Bmi);
- 
